@@ -7,3 +7,8 @@ Campaign Status Update: Toggle the status of specified campaigns between "ENABLE
 Token Management: Automatically refresh access tokens for secure API authentication.
 
 API URLs and credentials are defined in the config.py file for easy management.
+
+AWS Integration
+AWS Lambda: The script can be deployed on AWS Lambda for serverless execution.
+AWS EventBridge: It can be scheduled to run at specified intervals using AWS EventBridge.
+
